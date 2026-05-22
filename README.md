@@ -23,6 +23,6 @@ This Power BI dashboard analyzes Blinkit sales performance, customer trends, and
 - Dataset
 - Dashboard Screenshots
 
-- ## Power BI File
+## Dashboard Preview
 
-[Download Dashboard](https://github.com/shreenidhi-r-analytics/BLinkit-Delivery-And-Performance-Dashboard/blob/main/dashboard%20screenshot/Blinkit-Dashboard.png.png?raw=true)
+![Blinkit Dashboard](Screenshots/Blinkit-Dashboard.png)(https://github.com/shreenidhi-r-analytics/BLinkit-Delivery-And-Performance-Dashboard/blob/main/dashboard%20screenshot/Blinkit-Dashboard.png.png?raw=true)

@@ -1,22 +1,22 @@
-# Blinkit Sales Dashboard
+# Blinkit Delivery and Marketing Performance Dashboard
 
 ## Project Overview
-This Power BI dashboard analyzes Blinkit sales performance, customer trends, and business insights using interactive visualizations.
+This Power BI dashboard analyzes Blinkit delivery operations and marketing performance to understand efficiency, customer trends, and business impact using interactive visualizations.
 
 ## Tools Used
 - Power BI
 
 ## Dashboard Features
 - KPI Cards
-- Sales Analysis
-- Product Insights
+- Delivery Performance Analysis
+- Marketing Performance Insights
+- Sales Trend Visualization
 - Interactive Filters
-- Trend Visualization
 
 ## Key Insights
-- Sales trends identified
-- Product category performance analyzed
-- Customer purchasing behavior visualized
+- Delivery performance trends identified
+- Marketing effectiveness analyzed
+- Customer behavior patterns visualized
 
 ## Files Included
 - Power BI Dashboard (.pbix)
